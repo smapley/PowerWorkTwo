@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">PowerWork</string>
+
+    <string name="menu_item1">任务</string>
+    <string name="menu_item2">团队</string>
+    <string name="menu_item3">发布</string>
+    <string name="menu_item4">设置</string>
+
+    <string name="connectfiled">网络连接失败</string>
+
+    <string name="getfiled">获取信息失败</string>
+
+    <string name="onemoretime">重试</string>
+    <string name="tips">提示：</string>
+
+    <string name="loading">加载中。。。</string>
+
+
+    <string name="login_item1">账号</string>
+    <string name="login_item2">密码</string>
+    <string name="login_item3">注册</string>
+    <string name="login_item4">忘记密码</string>
+    <string name="login_item5">登陆</string>
+    <string name="login_toast1">请完善账号信息</string>
+    <string name="login_toast2">请完善密码信息</string>
+    <string name="login_toast3">登陆成功</string>
+    <string name="login_toast4">登陆失败</string>
+
+
+    <string name="register_item1">确认密码</string>
+    <string name="register_item2">手机号</string>
+    <string name="register_item3">邮箱</string>
+    <string name="register_item4">真实姓名</string>
+    <string name="register_item5">注册</string>
+    <string name="register_toast1">注册信息不能为空</string>
+    <string name="register_toast2">密码不一致</string>
+    <string name="register_toast3">注册成功</string>
+    <string name="register_toast4">注册失败</string>
+
+    <string name="forget_item1">找回密码</string>
+    <string name="forget_item2">找回成功</string>
+    <string name="forget_item3">找回失败</string>
+
+    <string name="task">任务</string>
+    <string name="task_item1">时间</string>
+    <string name="task_item2">事项</string>
+    <string name="task_item3">详情</string>
+    <string name="task_item4">图片</string>
+    <string name="task_item5">附件</string>
+
+    <string name="historicaltask">任务列表</string>
+    <string name="historicaltask_item1">待完成</string>
+    <string name="historicaltask_item2">已完成</string>
+
+    <string name="publish">任务发布</string>
+    <string name="publish_item1">团队选择</string>
+    <string name="publish_item2">任务时间段</string>
+    <string name="publish_item3">附件</string>
+    <string name="publish_item4">发布</string>
+    <string name="publish_item5">发布成功</string>
+    <string name="publish_item6">发布失败</string>
+    <string name="publish_item7">暂不支持添加附件</string>
+    <string name="publish_item8">您还没有加入团队！</string>
+    <string name="publish_item9">请先选择团队！</string>
+
+    <string name="set">设置</string>
+    <string name="set_item1">姓名</string>
+    <string name="set_item2">头像</string>
+    <string name="set_item3">闹钟提醒</string>
+    <string name="set_item4">任务清空</string>
+    <string name="set_item5">团队管理</string>
+    <string name="set_item6">标签管理</string>
+    <string name="set_item7">退出当前账号</string>
+    <string name="set_item8">登陆</string>
+    <string name="set_item9">请输入新名字</string>
+    <string name="set_item10">您的新名字：</string>
+    <string name="set_item11">确定清空任务？</string>
+    <string name="set_item12">任务清空后将无法恢复！</string>
+    <string name="set_item13">你的任务已经清空了</string>
+    <string name="set_item14">确定退出当前账号？</string>
+    <string name="set_item15">账号已退出</string>
+
+
+</resources>

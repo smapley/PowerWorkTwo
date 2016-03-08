@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#ffffff</color>
+    <color name="black">#000000</color>
+    <color name="saffron">#F1B136</color>
+    <color name="eggplant">#03A679</color>
+    <color name="sienna">#EB6460</color>
+    <color name="green">#6de011</color>
+    <color name="greendeep">#009900</color>
+    <color name="yellow">#fdf7cb</color>
+    <color name="gray">#21252a</color>
+    <color name="main_item1">#fe292b</color>
+    <color name="main_item2">#f49d31</color>
+    <color name="main_item3">#faf733</color>
+    <color name="main_item4">#6de011</color>
+    <color name="main_item5">#569bf9</color>
+    <color name="main_item6">#2b2c6f</color>
+    <color name="main_item7">#933ea8</color>
+    <color name="text1">#5b5b5c</color>
+    <color name="tast_text">#519802</color>
+
+</resources>

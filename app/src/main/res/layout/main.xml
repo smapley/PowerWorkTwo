@@ -1,0 +1,24 @@
+<com.smapley.powerwork.Widge.SlidingMenu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:zhy="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/id_menu"
+    android:layout_width="wrap_content"
+    android:layout_height="fill_parent"
+    android:scrollbars="none"
+    zhy:rightPadding="100dp"
+    android:background="@drawable/main_backgound">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="fill_parent"
+        android:fitsSystemWindows="true"
+        android:clipToPadding="true"
+        android:orientation="horizontal">
+
+        <include layout="@layout/layout_menu" />
+
+        <include layout="@layout/layout_main" />
+
+
+    </LinearLayout>
+
+</com.smapley.powerwork.Widge.SlidingMenu>

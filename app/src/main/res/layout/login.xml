@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@drawable/login"
+        android:layout_above="@+id/login_login">
+
+        <TableLayout
+            android:layout_width="match_parent"
+            android:layout_above="@+id/login_lin2"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:padding="10dp"
+            android:layout_height="wrap_content"
+            android:id="@+id/tableLayout">
+
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:textSize="@dimen/login_text"
+                android:text="@string/login_item1" />
+
+            <EditText
+                android:id="@+id/login_name"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:textColor="@color/white"
+                android:textSize="@dimen/login_text"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_marginTop="20dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:textColor="@color/white"
+                android:textSize="@dimen/login_text"
+                android:text="@string/login_item2" />
+
+            <EditText
+                android:id="@+id/login_passwork"
+                android:layout_marginTop="10dp"
+                android:layout_width="match_parent"
+                android:inputType="textPassword"
+                android:textColor="@color/white"
+                android:textSize="@dimen/login_text"
+                android:layout_height="wrap_content" />
+
+        </TableLayout>
+
+        <LinearLayout
+            android:id="@+id/login_lin2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginRight="20dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true">
+
+            <TextView
+                android:id="@+id/login_reg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/login_item3"
+                android:padding="20dp"
+                android:textSize="@dimen/login_text"
+                android:textColor="@color/yellow" />
+
+            <TextView
+                android:id="@+id/login_forget"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:padding="20dp"
+                android:textSize="@dimen/login_text"
+                android:text="@string/login_item4"
+                android:textColor="@color/yellow" />
+        </LinearLayout>
+
+
+    </RelativeLayout>
+
+
+    <com.dd.CircularProgressButton
+        android:id="@+id/login_login"
+        android:layout_width="196dp"
+        android:layout_height="50dp"
+        app:cpb_cornerRadius="48dp"
+        app:cpb_paddingProgress="10dp"
+        android:layout_marginBottom="80dp"
+        android:textSize="@dimen/login_text"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:textColor="@color/white"
+        app:cpb_selectorIdle="@drawable/progressbutton_idle"
+        app:cpb_selectorComplete="@drawable/progressbutton_complete"
+        app:cpb_selectorError="@drawable/progressbutton_error"
+
+        app:cpb_textComplete="@string/login_toast3"
+        app:cpb_textError="@string/login_toast4"
+        app:cpb_textIdle="@string/login_item5" />
+
+
+</RelativeLayout>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/smapley/百度云同步盘/Work/Studio/PowerWork/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/smapley/百度云同步盘/Work/Studio/PowerWork/app/build/intermediates/pre-dexed/debug/classes-a70cae9ff0d134a6d5bf2aab0d1aba17269adde8.jar" />
+    </item>
+    <item
+        jar="/Users/smapley/百度云同步盘/Work/Studio/PowerWork/app/build/intermediates/exploded-aar/com.nhaarman.listviewanimations/lib-core/3.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="acf66033b1418ccf9e15c8e77750981e4809c4ea">
+        <dex dex="/Users/smapley/百度云同步盘/Work/Studio/PowerWork/app/build/intermediates/pre-dexed/debug/classes-4e89578eddd214119182210b24f0913263893c8c.jar" />
+    </item>
+    <item
+        jar="/Users/smapley/百度云同步盘/Work/Studio/PowerWork/app/libs/fastjson-1.1.22.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1744ecd7f8716ac83381f2b8f5bd002365ccdca9">
+        <dex dex="/Users/smapley/百度云同步盘/Work/Studio/PowerWork/app/build/intermediates/pre-dexed/debug/fastjson-1.1.22-d55adb16f2173ba07bffe2fb1256b1324e32579d.jar" />
+    </item>
+    <item
+        jar="/Users/smapley/百度云同步盘/Work/Studio/PowerWork/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/smapley/百度云同步盘/Work/Studio/PowerWork/app/build/intermediates/pre-dexed/debug/classes-427e4cc509185aa727c7640b11c4ef385c15f0a7.jar" />
+    </item>
+    <item
+        jar="/Users/smapley/百度云同步盘/Work/Studio/PowerWork/app/build/intermediates/exploded-aar/PowerWork/dialog/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="717e050185092aac5b578105f0093a8ec9c56d1f">
+        <dex dex="/Users/smapley/百度云同步盘/Work/Studio/PowerWork/app/build/intermediates/pre-dexed/debug/classes-59b1de37caa293bf23921be2926987da3a53538c.jar" />
+    </item>
+    <item
+        jar="/Users/smapley/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/smapley/百度云同步盘/Work/Studio/PowerWork/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-18b4ca49a1974da92d63bacb0419e198e3c25126.jar" />
+    </item>
+    <item
+        jar="/Users/smapley/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.0/7ff0e000d1e27e356567f56c92af3b8ab912636f/picasso-2.5.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="7ff0e000d1e27e356567f56c92af3b8ab912636f">
+        <dex dex="/Users/smapley/百度云同步盘/Work/Studio/PowerWork/app/build/intermediates/pre-dexed/debug/picasso-2.5.0-afc7c02abb54421ffae88eb17dca139419c873b0.jar" />
+    </item>
+    <item
+        jar="/Users/smapley/百度云同步盘/Work/Studio/PowerWork/app/build/intermediates/exploded-aar/com.github.ozodrukh/CircularReveal/1.0.5/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="990aaea33c54b40347e1f6243dbf4ae8f1d71d3f">
+        <dex dex="/Users/smapley/百度云同步盘/Work/Studio/PowerWork/app/build/intermediates/pre-dexed/debug/classes-8e14ac44408d35cf368f74561810c71c3af9cf8a.jar" />
+    </item>
+    <item
+        jar="/Users/smapley/百度云同步盘/Work/Studio/PowerWork/app/build/intermediates/exploded-aar/PowerWork/ProgressButton/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="0621f90d33bc093755bab58c1cfb828546f01f2c">
+        <dex dex="/Users/smapley/百度云同步盘/Work/Studio/PowerWork/app/build/intermediates/pre-dexed/debug/classes-78d7b2f2bd76277158b9400c34b19e52ff6c8440.jar" />
+    </item>
+    <item
+        jar="/Users/smapley/百度云同步盘/Work/Studio/PowerWork/app/build/intermediates/exploded-aar/PowerWork/euclid/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="716305c04352d44a21bdae23b0a18ad627ebf00b">
+        <dex dex="/Users/smapley/百度云同步盘/Work/Studio/PowerWork/app/build/intermediates/pre-dexed/debug/classes-fb4d30a78cda5bca0ce268e6b9cd47409380987a.jar" />
+    </item>
+    <item
+        jar="/Users/smapley/百度云同步盘/Work/Studio/PowerWork/app/build/intermediates/exploded-aar/PowerWork/pulltorefresh/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6b7bd046eab0376478ab88160f952acefc400724">
+        <dex dex="/Users/smapley/百度云同步盘/Work/Studio/PowerWork/app/build/intermediates/pre-dexed/debug/classes-672fa952886a70f8b5c4cf8b914ed9ab3a2486b1.jar" />
+    </item>
+    <item
+        jar="/Users/smapley/.gradle/caches/modules-2/files-2.1/com.nineoldandroids/library/2.4.0/e9b63380f3a242dbdbf103a2355ad7e43bad17cb/library-2.4.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="/Users/smapley/百度云同步盘/Work/Studio/PowerWork/app/build/intermediates/pre-dexed/debug/library-2.4.0-e4ecd12b6e1e71f894e73b16b53e455d8c221a9d.jar" />
+    </item>
+    <item
+        jar="/Users/smapley/百度云同步盘/Work/Studio/PowerWork/app/libs/fastjson-1.1.22-sources.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="af1f8831b647891784eacad70013c32872210ee6">
+        <dex dex="/Users/smapley/百度云同步盘/Work/Studio/PowerWork/app/build/intermediates/pre-dexed/debug/fastjson-1.1.22-sources-449b5ce827aacf8c2e82e1f18597633c0e831973.jar" />
+    </item>
+    <item
+        jar="/Users/smapley/百度云同步盘/Work/Studio/PowerWork/app/build/intermediates/exploded-aar/PowerWork/shapeloading/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c7451c9b2509f7a73e40256efb0ac1606de87453">
+        <dex dex="/Users/smapley/百度云同步盘/Work/Studio/PowerWork/app/build/intermediates/pre-dexed/debug/classes-39aa6b06aa22a02ab02eaab8107fa5c832e07e57.jar" />
+    </item>
+    <item
+        jar="/Users/smapley/百度云同步盘/Work/Studio/PowerWork/app/build/intermediates/exploded-aar/PowerWork/side-menu/unspecified/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="05f9d4c2f6a882d69e15324031d6098452f53ae0">
+        <dex dex="/Users/smapley/百度云同步盘/Work/Studio/PowerWork/app/build/intermediates/pre-dexed/debug/classes-c32aaa38c2669d780d050e823efdb5dd35f619db.jar" />
+    </item>
+    <item
+        jar="/Users/smapley/百度云同步盘/Work/Studio/PowerWork/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/smapley/百度云同步盘/Work/Studio/PowerWork/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-79a53e2c9d5a386c7949b35cde8ce744164da4a1.jar" />
+    </item>
+
+</items>

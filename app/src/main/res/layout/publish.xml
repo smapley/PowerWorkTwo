@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/white">
+
+    <TextView
+        android:id="@+id/publish_lin1"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:gravity="center"
+        android:text="@string/publish"
+        android:textColor="@color/white"
+        android:paddingTop="10dp"
+        android:textSize="20sp"
+        android:background="@drawable/background_title" />
+
+    <TableLayout
+        android:id="@+id/publish_lin2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/publish_lin1"
+        android:padding="20dp"
+        android:stretchColumns="0">
+
+        <TableRow android:id="@+id/publish_item1">
+
+            <TextView
+                android:text="@string/publish_item1"
+                style="@style/set_text" />
+
+            <ImageView
+                android:layout_height="match_parent"
+                android:src="@drawable/jiantou" />
+        </TableRow>
+
+        <TextView
+            android:layout_height="0.5dp"
+            android:background="@color/gray" />
+
+        <TableRow android:id="@+id/publish_item2">
+
+            <TextView
+                android:text="@string/publish_item2"
+                style="@style/set_text" />
+
+            <ImageView
+                android:layout_height="match_parent"
+                android:src="@drawable/jiantou" />
+        </TableRow>
+
+        <TextView
+            android:layout_height="0.5dp"
+            android:background="@color/gray" />
+
+        <TableRow android:id="@+id/publish_item3">
+
+            <TextView
+                android:text="@string/publish_item3"
+                style="@style/set_text" />
+
+            <ImageView
+                android:layout_height="match_parent"
+                android:src="@drawable/jiantou" />
+        </TableRow>
+
+        <TextView
+            android:layout_height="0.5dp"
+            android:background="@color/gray" />
+    </TableLayout>
+
+    <EditText
+        android:id="@+id/publish_content"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@+id/publish_lin2"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:padding="10dp"
+        android:gravity="start"
+        android:background="@drawable/edge_green"
+        android:layout_above="@+id/publish_publish" />
+
+    <com.dd.CircularProgressButton
+        android:id="@+id/publish_publish"
+        android:layout_width="196dp"
+        android:layout_height="50dp"
+        app:cpb_cornerRadius="48dp"
+        app:cpb_paddingProgress="10dp"
+        android:layout_marginBottom="40dp"
+        android:textSize="@dimen/login_text"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:textColor="@color/white"
+        app:cpb_selectorIdle="@drawable/progressbutton_idle"
+        app:cpb_selectorComplete="@drawable/progressbutton_complete"
+        app:cpb_selectorError="@drawable/progressbutton_error"
+
+        app:cpb_textComplete="@string/publish_item5"
+        app:cpb_textError="@string/publish_item6"
+        app:cpb_textIdle="@string/publish_item4" />
+</RelativeLayout>
